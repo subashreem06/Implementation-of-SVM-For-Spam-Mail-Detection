@@ -18,9 +18,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 
 Program to implement the SVM For Spam Mail Detection..
-Developed by: R . NITHISH AADITIYAA
-RegisterNumber:  25011876
-
+Developed by: SUBASHREE .M
+RegisterNumber:  212224060262
 ```
 ```
 
